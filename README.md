@@ -1,7 +1,10 @@
+![titanic png](https://github.com/user-attachments/assets/6e64e515-6519-4c17-94a0-edcac6b2699c)
+
+
 # Titanic Survival Prediction Using Decision Tree Algorithm
 
 ---------------------------------------------------
-https://th.bing.com/th/id/OIP.SL9QET3Oox1zBgXnvWpgjwHaEK?rs=1&pid=ImgDetMain
+
 
 ## **<span style="color:green">Project Description</span>**
 
